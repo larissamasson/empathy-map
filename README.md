@@ -1,2 +1,2 @@
 # empathy-map
-One Empathy map, multiple screens. No paper, No pen.
+One Empathy map, multiple screens. No paper, no pen. Distance is not an excuse.
